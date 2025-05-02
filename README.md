@@ -32,7 +32,7 @@ This repo serves as the **home for BitCraft’s core source and content**:
 
 ## 🌐 Visit the Platform
 
-👉 **Live**: [bitcraft.bitpulse.dev](https://bitcraft.bitpulse.dev)
+👉 **Live**: [craft.bitpulse.dev](https://craft.bitpulse.dev)
 
 ---
 
