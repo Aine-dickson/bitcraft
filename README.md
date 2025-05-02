@@ -1,6 +1,6 @@
 # BitCraft
 
-**bitcraft.bitpulse.dev**  
+**craft.bitpulse.dev**  
 *A playground and forge for low-level computing enthusiasts, learners, and open-source tinkerers.*
 
 ---
@@ -27,7 +27,6 @@ This repo serves as the **home for BitCraft’s core source and content**:
 - `src/` – Source code for demos, simulations, and educational projects
 - `tools/` – Utility scripts or helper crates
 - `public/` – Assets (logos, diagrams, visual aids)
-- `bitcraft.config.json` – Site/project metadata
 
 ---
 
@@ -59,7 +58,7 @@ See [LICENSE](LICENSE) for details.
 
 ## 💡 Maintained by
 
-**[BitPulse](https://bitpulse.dev)** — Advancing digital craftsmanship in Uganda and beyond.
+**[BitPulse](https://bitpulse.dev)** — Advancing digital craftsmanship in Africa and beyond.
 
 ---
 
