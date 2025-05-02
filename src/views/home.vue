@@ -1,0 +1,65 @@
+<template>
+    <main class="min-h-screen bg-gray-950 text-white flex flex-col items-center justify-center px-6 py-12">
+      <!-- Hero -->
+      <section class="text-center max-w-3xl">
+        <h1 class="text-4xl md:text-6xl font-bold mb-4 text-white">
+          Welcome to <span class="text-orange-400">BitCraft</span>
+        </h1>
+        <p class="text-lg md:text-xl text-gray-300 mb-8">
+          A learning lab and open-source forge by BitPulse. Dive into low-level tutorials, embedded Rust, and experimental systems projects.
+        </p>
+        <div class="flex gap-4 justify-center">
+          <a href="#coming" class="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded-xl transition">
+            Start Exploring
+          </a>
+          <a href="https://github.com/your-profile" target="_blank" class="border border-orange-400 text-orange-400 hover:bg-orange-500 hover:text-white py-2 px-4 rounded-xl transition">
+            Follow on GitHub
+          </a>
+        </div>
+      </section>
+  
+      <!-- Coming Soon Section -->
+      <section id="coming" class="mt-24 max-w-4xl text-center">
+        <h2 class="text-2xl md:text-3xl font-bold text-orange-400 mb-4">🛠️ What We're Building</h2>
+        <div class="grid md:grid-cols-2 gap-8 text-left">
+          <div>
+            <h3 class="text-xl font-semibold mb-2">🧠 Learning Paths</h3>
+            <p class="text-gray-300">Step-by-step guides on embedded Rust, OS dev, and more—from the metal up.</p>
+          </div>
+          <div>
+            <h3 class="text-xl font-semibold mb-2">🌍 Open-Source Projects</h3>
+            <p class="text-gray-300">Explore hands-on system-level projects built with transparency and purpose.</p>
+          </div>
+          <div>
+            <h3 class="text-xl font-semibold mb-2">📚 Dev Logs & Research</h3>
+            <p class="text-gray-300">Live documentation, design logs, and practical experimentation notes.</p>
+          </div>
+          <div>
+            <h3 class="text-xl font-semibold mb-2">🤝 Contributor-Friendly Culture</h3>
+            <p class="text-gray-300">Open to feedback, pull requests, and collaborations from the community.</p>
+          </div>
+        </div>
+      </section>
+  
+      <!-- Ethos Section -->
+      <section class="mt-24 text-center max-w-2xl">
+        <p class="italic text-gray-400 text-lg">
+          "At BitPulse, we believe in building not just tools, but builders. BitCraft is our space to teach, learn, and create freely—from the ground up."
+        </p>
+      </section>
+  
+      <!-- Footer -->
+      <footer class="mt-24 text-gray-500 text-sm">
+        Made with ❤️ by BitPulse in Uganda · <a href="https://bitpulse.dev" class="underline hover:text-white">bitpulse.dev</a>
+      </footer>
+    </main>
+  </template>
+  
+  <script setup>
+  // No JavaScript logic needed for this static landing page
+  </script>
+  
+  <style>
+  /* Tailwind handles most styling, you can add custom styles if needed */
+  </style>
+  
